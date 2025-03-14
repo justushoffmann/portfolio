@@ -4,9 +4,13 @@
 - **LinkedIn**: TODO
 
 ## Projects
-- One
-- Two
-- Three
+One (picture, title (with hyperlink to project), description)
+#
+Two (picture, title (with hyperlink to project), description)
+#
+Three (picture, title (with hyperlink to project), description)
+#
+Etc (picture, title (with hyperlink to project), description)
 
 ## Core Competencies
 -**Bla**: TODO
